@@ -1,9 +1,9 @@
 # Somatic PT
 
-Instructions:
-
+## Instructions:
+```
 yarn install
 yarn start
 yarn server
-
+```
 opens at port 3000
